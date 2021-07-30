@@ -3,11 +3,11 @@ final year project
 
 this is the final year project for Bsc csit 7th semester. project is about an ecommerce mobile app
 
-app was made with the combination of these technology and tools:
-  1.flutter
-  2.mysql
-  3.node.js
-  4.android studio
+app was made with the combination of these technology and tools:<br>
+  1.flutter <br>
+  2.mysql <br>
+  3.node.js <br>
+  4.android studio <br>
  
  backend server is currently on localhost as well as database(mysql)
 
